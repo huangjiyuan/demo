@@ -14,3 +14,5 @@ master-origin-6
 testing-6
 
 master-origin-7
+master-7
+master--7
