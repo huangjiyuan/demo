@@ -4,7 +4,7 @@
   "description": "learn git rebase-testing\r master-commit\r master -1\r master -1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1 origin change"
+    "test": "echo \"Error: no test specified\" && exit 1 origin change add by huangjiyuan"
   },
   "repository": {
     "type": "git",
