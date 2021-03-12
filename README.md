@@ -11,3 +11,4 @@ master-4
 testing-4
 master-local-5-testing
 master-origin-6
+testing-6
